@@ -15,4 +15,10 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: antiquewhite;
+}
+
+nav {
+    background-image: url(../img/top.png);
+    height: 100px;
 }
